@@ -1,3 +1,6 @@
+//Esse código consiste em uma sequência de Fibonacci gerada a partir de um valor de entrada, o loop será gerado a partir do for
+//e em seguida o cálculo será implementado.
+
 function GenerateFibonacci(number){
     let value = number+1
     let count = [];
